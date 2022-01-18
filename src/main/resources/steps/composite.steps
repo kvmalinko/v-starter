@@ -1,0 +1,7 @@
+Composite: When I check the page with visual element located $locator
+When I change context to element located `locator`
+When I establish baseline with `baseline`
+When I refresh the page
+When I wait until element located `locator` appears
+When I change context to element located `locator'
+When I compare against baseline with `baseline`
